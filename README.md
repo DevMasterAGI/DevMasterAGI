@@ -19,5 +19,6 @@
 * Other open source AI and ML projects
 * Research projects on AGI, AI, and ML
 
-**P.S.** I'm also a big fan of neural network and creating a neural network to communicate with the trees. Imagine if neural network could be used to develop a system that can detect early signs of tree stress. 
+**P.S.**I'm also a big fan of neural networks and creating an advanced neural network for artificial general intelligence. Imagine if a neural network could be used to develop a system that can detect early signs of clirmate, economic issues, health predictions of the human body, improve traffic management systems,  and predict and suggest ways to protect future farming and water resources.
 This system could then be used to alert foresters to potential problems so that they can take corrective action.
+
