@@ -5,7 +5,7 @@
 * Artificial general intelligence (AGI)
 * Artificial intelligence (AI)
 * Machine learning (ML)
-* Developing the most advanced AI & AGI calculator
+* Developing the most advanced AI & AGI Agents
 
 **🌱 I’m currently learning…**
 
@@ -15,7 +15,7 @@
 
 **💞️ I’m looking to collaborate on…**
 
-* Developing the most advanced AI & AGI calculator
+* Developing the most advanced AI & AGI Agents
 * Other open source AI and ML projects
 * Research projects on AGI, AI, and ML
 
